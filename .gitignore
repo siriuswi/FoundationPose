@@ -157,5 +157,5 @@ logs/
 !BundleTrack/XMem/inference/data
 run_used.yml
 
-weights/
-demo_data/
+weights/**
+demo_data/**
